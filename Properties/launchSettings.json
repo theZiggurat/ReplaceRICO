@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ReplaceRICO": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CSII_MANAGEDPATH": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Cities Skylines II\\Cities2_Data\\Managed",
+        "CSII_TOOLPATH": "D:\\cs2mods\\source\\ReplaceRICO\\Properties"
+      }
+    }
+  }
+}
